@@ -1,6 +1,6 @@
 <h3 id="hi-there">Hi there 👋</h3>
 <ul>
-<li>🌱 Welcome to my space. My name is Hoang Phuc.</li>
+<li>🌱 Welcome to my space</li>
 <li>🎓 Undergraduate in DSEB at National Economics University.</li>
 <li>💖 Passionate about Artificial Intelligence and aspiring to become an AI Engineer. </li>
 </ul>
