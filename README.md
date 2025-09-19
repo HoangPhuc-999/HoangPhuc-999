@@ -1,5 +1,4 @@
 <h3 id="hi-there">Hi there 👋</h3>
-<br>
 <ul>
 <li>🌱 Welcome to my space</li>
 <li>🎓 Undergraduate in DSEB at National Economics University.</li>
